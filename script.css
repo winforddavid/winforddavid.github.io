@@ -11,6 +11,9 @@ h1{
     font-style:italic;
     
 }
-btn-info:hover{
+btn-info {
+    background-color: orange;
+}
+btn-info:hover {
     background-color: black;
 }
