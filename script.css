@@ -11,6 +11,9 @@ h1{
     font-style:italic;
     
 }
-modal-body{
+btn-primary{
     background-color: Lime;
+}
+btn-secondary{
+    background-color: black;
 }
